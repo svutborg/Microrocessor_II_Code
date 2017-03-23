@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1490263332 source:c:\users\svu\google drive\courses\microprocessor ii\linkedlistexample\linkedlistexample\linkedlist.c
+	"linkedList.h"
+	<stdlib.h>
+
+1490262959 c:\users\svu\google drive\courses\microprocessor ii\linkedlistexample\linkedlistexample\linkedlist.h
+
+1490263346 source:c:\users\svu\google drive\courses\microprocessor ii\linkedlistexample\linkedlistexample\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
